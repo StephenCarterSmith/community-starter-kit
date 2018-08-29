@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
+1. This Description is mindless but 
+  - I can add a couple of bullets
+  - another bullet
+2. And another list item
 
 ## What it does
 
-FEATURES PLACEHOLDER
+I don't know what it does but that doesn't seem to matter here.
 
 ## Getting started
 
